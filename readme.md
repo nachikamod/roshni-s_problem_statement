@@ -1,6 +1,5 @@
 # Done !!!
 
-
 Well as I said four different languages and I kept my promise. Uh telling about the development well python (Took me <20 min), c++ ( < 5min ) and javascript( > 30 min ) was not challenging enough as you can see I aminly used 
 inbuit functions and libararies in this languages. 
 
@@ -15,4 +14,6 @@ Because,
 
 At the end c was fun. I tried to be little bit creative with javascript, wich is really not a creativity at its finest I thought of, cause I wanted to have a sleep too (It was alomost 3:00 AM I guess 3:30 AM oh wahtever)
 
-**Iske bad msg karne ki jurrat bhi mat karna tujhe bola tha na either selfie nahi to direct sunday ko bat karna.......................Grrrrr**
+Its working!!
+but ya,
+//agle baar ques bhejne se pehle 100 times sochungi , 4 different language-overnight.(headbanging emoji)
