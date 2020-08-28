@@ -16,4 +16,4 @@ At the end c was fun. I tried to be little bit creative with javascript, wich is
 
 Its working!!
 but ya,
-//agle baar ques bhejne se pehle 100 times sochungi , 4 different language-overnight.(headbanging emoji)
+//agle baar ques bhejne se pehle 100 times sochungi , 4 different language-overnight.i really donno what to say(headbanging emoji)
